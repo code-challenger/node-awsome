@@ -1,0 +1,27 @@
+{
+  "name": "awesome-node-js",
+  "version": "1.0.0",
+  "description": "Curated directory for node js resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test",
+    "dev": "docz dev",
+    "build": "docz build"
+  },
+  "keywords": [
+    "nodejs",
+    "resources"
+  ],
+  "author": "Tejas Suthar",
+  "license": "ISC",
+  "devDependencies": {
+    "docz-theme-default": "^1.2.0",
+    "mocha": "^3.4.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "docz": "^1.3.2"
+  }
+}
